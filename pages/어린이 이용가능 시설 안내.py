@@ -1,3 +1,7 @@
+streamlit>=1.28.0
+pandas>=2.0.0
+folium>=0.14.0
+streamlit-folium>=0.13.0
 import streamlit as st
 import pandas as pd
 import folium
